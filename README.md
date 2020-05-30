@@ -1,2 +1,1 @@
-# lthwspring
-LTHW - Spring Framework
+# LTHW - Spring Framework
